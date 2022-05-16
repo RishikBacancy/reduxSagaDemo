@@ -1,0 +1,1 @@
+export const API_URL = "http://restapi.adequateshop.com/api/authaccount/";
